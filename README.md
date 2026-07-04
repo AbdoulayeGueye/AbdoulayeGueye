@@ -1,16 +1,21 @@
-## Hi there 👋
+Salut, moi c'est Abdoulaye 👋
 
-<!--
-**AbdoulayeGueye/AbdoulayeGueye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingénieur Cloud & Data — 4 ans d'expérience en architecture applicative et intégration de données.
+Certifié Google Cloud (Professional Cloud Architect, Associate Cloud Engineer) · Certification PMLE en préparation.
 
-Here are some ideas to get you started:
+🚧 En ce moment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je construis en public un portfolio Cloud & IA sur GCP :
+
+
+📊 Prédiction de churn en temps réel — BigQuery ML, streaming Pub/Sub → Dataflow, FinOps intégré (en cours)
+🤖 Assistant documentaire RAG multi-agent (Vertex AI, ADK) (à venir)
+
+
+🛠️ Domaines
+
+BigQuery ML · Pub/Sub · Dataflow · Terraform · Vertex AI · FinOps
+
+📫 Contact
+
+LinkedIn · cheikhabdoulaye92@gmail.com
