@@ -18,4 +18,4 @@ BigQuery ML · Pub/Sub · Dataflow · Terraform · Vertex AI · FinOps
 
 📫 Contact
 
-https://www.linkedin.com/in/abdoulaye-gueye · cheikhabdoulaye92@gmail.com 
+abdoulayegueye.github.io https://www.linkedin.com/in/abdoulaye-gueye · cheikhabdoulaye92@gmail.com 
